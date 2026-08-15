@@ -4,7 +4,7 @@ Paquete listo para publicar como sitio estático en GitHub Pages / github.io.
 
 ## Antes de subir
 1. Abrí `js/app.js`.
-2. Reemplazá `PEGAR_AQUI_LA_URL_DEL_STREAM_ZENOMEDIA` por la URL pública de reproducción de tu AutoDJ/stream de ZenoMedia.
+2. Reemplazá `(https://zeno.fm/radio/arena-24-la-rioja-argentina-7bqb/)` por la URL pública de reproducción de tu AutoDJ/stream de ZenoMedia.
 3. Si querés, cambiá los enlaces de Facebook e Instagram en `index.html`.
 
 ## Publicar en GitHub Pages
